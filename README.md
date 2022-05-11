@@ -2,9 +2,9 @@
 
 Simple Todo Application where different users can create their todo list. It should also have localization support for *English* & *Spanish*.
 
-**Frontend**:   React
-**Backend**:    PHP
-**Database**:   sqlite
+**Frontend**:   React  
+**Backend**:    PHP  
+**Database**:   sqlite  
 
 ### Design
 - There will be 2 pages. User page & Todo List page.
