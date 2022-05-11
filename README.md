@@ -11,6 +11,7 @@ Simple Todo Application where different users can create their todo list. It sho
 - **User Page**:
   - We can create a user.
   - Clicking on that user will take us to that user's Todo list page.
+  - We can delete user.
 - **Todo List Page**:
   - User can create a list item.
   - User can delete a list item.
